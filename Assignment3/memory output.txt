@@ -1,0 +1,9 @@
+Enter partition sizes: 3
+Enter process sizes: 2
+Process 1 allocated in Partition 1
+Enter partition sizes: 4
+Enter process sizes: 2
+Process 1 allocated in Partition 1
+Enter partition sizes: 5
+Enter process sizes: 3
+Process 1 allocated in Partition 1
