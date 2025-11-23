@@ -1,0 +1,23 @@
+===== FCFS Scheduling =====
+{'pid': 1, 'arrival': 0, 'burst': 7, 'priority': 2, 'wt': 0, 'tat': 7}
+{'pid': 2, 'arrival': 2, 'burst': 4, 'priority': 1, 'wt': 5, 'tat': 9}
+{'pid': 3, 'arrival': 4, 'burst': 1, 'priority': 3, 'wt': 7, 'tat': 8}
+{'pid': 4, 'arrival': 5, 'burst': 4, 'priority': 2, 'wt': 7, 'tat': 11}
+
+===== SJF Scheduling =====
+{'pid': 1, 'arrival': 0, 'burst': 7, 'priority': 2, 'wt': 0, 'tat': 7}
+{'pid': 3, 'arrival': 4, 'burst': 1, 'priority': 3, 'wt': 3, 'tat': 4}
+{'pid': 2, 'arrival': 2, 'burst': 4, 'priority': 1, 'wt': 6, 'tat': 10}
+{'pid': 4, 'arrival': 5, 'burst': 4, 'priority': 2, 'wt': 7, 'tat': 11}
+
+===== Priority Scheduling =====
+{'pid': 1, 'arrival': 0, 'burst': 7, 'priority': 2, 'wt': 0, 'tat': 7}
+{'pid': 2, 'arrival': 2, 'burst': 4, 'priority': 1, 'wt': 5, 'tat': 9}
+{'pid': 4, 'arrival': 5, 'burst': 4, 'priority': 2, 'wt': 6, 'tat': 10}
+{'pid': 3, 'arrival': 4, 'burst': 1, 'priority': 3, 'wt': 11, 'tat': 12}
+
+===== Round Robin (Quantum = 2) =====
+{'pid': 3, 'arrival': 4, 'burst': 1, 'priority': 3, 'tat': 3, 'wt': 2}
+{'pid': 2, 'arrival': 2, 'burst': 4, 'priority': 1, 'tat': 7, 'wt': 3}
+{'pid': 4, 'arrival': 5, 'burst': 4, 'priority': 2, 'tat': 10, 'wt': 6}
+{'pid': 1, 'arrival': 0, 'burst': 7, 'priority': 2, 'tat': 16, 'wt': 9}
