@@ -1,0 +1,14 @@
+Enter total number of blocks: 4
+Enter number of files: 3
+Enter index block for file 1: 2
+Enter number of data blocks: 2
+Enter block numbers: 3
+Block(s) already allocated or invalid input.
+Enter index block for file 2: 3
+Enter number of data blocks: 2
+Enter block numbers: 3
+Block(s) already allocated or invalid input.
+Enter index block for file 3: 2
+Enter number of data blocks: 1
+Enter block numbers: 2
+File 3 allocated with index block 2 -> [2]
