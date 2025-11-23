@@ -1,0 +1,10 @@
+==== System Details ====
+Kernel Version: 6.12.33+kali-amd64
+User: nishthaa_chn25
+Hardware Virtualization Info:
+Address sizes:                           48 bits physical, 48 bits virtual
+Virtualization type:                     full
+
+==== VM Detection ====
+Virtual Machine Detected
+ - CPU flags show 'hypervisor' → running in VM.
